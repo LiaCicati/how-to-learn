@@ -1,4 +1,4 @@
-@import url('../__heading/_theme_dark/table__heading_theme_dark.css');
+@import url('./_theme/table__heading_theme_dark.css');
 
 .table__heading {
   width: 250px;
