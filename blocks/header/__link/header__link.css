@@ -1,5 +1,9 @@
 .header__link {
-    text-decoration: none;
-    color: #2f80ed;
-    cursor: pointer;
-  }
+ text-decoration: none;
+ color: #2f80ed;
+ cursor: pointer;
+}
+
+.header__link:hover {
+ opacity: .5;
+}

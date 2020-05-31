@@ -1,8 +1,12 @@
 .footer__link {
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: normal;
-    text-decoration: none;
-    color: #fff;
-    cursor: pointer;
-  }
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+.footer__link:hover {
+  opacity: .5;
+}
