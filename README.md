@@ -18,6 +18,8 @@
 [Yandex Praktikum](https://praktikum.yandex.ru/)
 
 ----
+* ### Ссылка на сайт : 
+[ Научиться учиться ](https://liacicati.github.io/russian-travel/)
 ## Технологии:
 * ###	HTML
 * ###	CSS
