@@ -19,7 +19,7 @@
 
 ----
 * ### Ссылка на сайт : 
-[ Научиться учиться ](https://liacicati.github.io/russian-travel/)
+[ Научиться учиться ](https://liacicati.github.io/how-to-learn/)
 ## Технологии:
 * ###	HTML
 * ###	CSS
