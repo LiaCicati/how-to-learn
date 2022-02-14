@@ -1,39 +1,23 @@
-# Проектная работа: сайт "Научиться учиться"
+# Yandex.Practicum. Web Development training course 1st project
 ----
-## Oписание:
-### Вся необходимая информация о том как научиться учиться, потому что мотивация при обучении, организация образовательного процесса и осмысление результатов учебы не менее важны, чем сами знания.
-
-* ### *Содержание:*
-#### 1. Главные проблемы в обучении
-#### 2. Техники обучения
-#### 3. Полезные методы
-#### 4. Цифры и факты
-#### 5. Принципы обучения
-#### 6. Дополнительные материалы и ресурсы для познания современных и эффективных подходов к обучению
-
-  * ### *Лого сайта*:
-
-![Our Logo](https://batenka.ru/media/original_images/yandexPraktikum-logo2.png)
-
-[Yandex Praktikum](https://praktikum.yandex.ru/)
-
+## Description:
+### Landing page, a simple layout using HTML, CSS, flexbox and BEM Methodology
 ----
-* ### Ссылка на сайт : 
-[ Научиться учиться ](https://liacicati.github.io/how-to-learn/)
-## Технологии:
+* ### Link to the project: 
+[ How to learn ](https://liacicati.github.io/how-to-learn/)
+## Technologies:
 * ###	HTML
 * ###	CSS
 ----
 
-## Дополнительная информация:
+## Additional information:
 
-* ###	*Редактор исходного кода*:  Visual Studio Code
-* ###	*Используемая методология*:  Методология БЭМ
-
+* ###	*Methodology*:  BEM Methodology
 
 
-| Имя         | Email                |
-| ----------- | -------------------- |
-| Чикати Лиа  | LiaCicati@yandex.com |
+
+| Name         | Email                |
+| -----------  | -------------------- |
+| Lia Cicati   | liacicati@gmail.com  |
 
 
